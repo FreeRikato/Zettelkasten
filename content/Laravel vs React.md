@@ -2,6 +2,7 @@
 title: Laravel vs React
 draft: false
 tags:
+  - fullstack
 ---
  **Source:** ![](https://youtu.be/gRtv-BVkwA4)
  This is really a paradigm shift for me as the line between frontend and backend did really blur in recent time as Aaron said. 
