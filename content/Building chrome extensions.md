@@ -1,6 +1,6 @@
 Chromes extensions are useful piece of software that i have been exploring recently. Spending a lot of time in the browsers, the extensions are capable of helping us in a lot of way. I have always felt them magical and wondered how would one build it. 
 
-I tried to build one and came up with [[quartz/content/Prompty|Prompty]], an extension that would help me to quickly see definitions and prompt the underlying large language model to perform a task with selected task. I learned a lot while building it, felt it it to be so easy & cool and will try my best to teach what i have learnt. My way of teaching would be first principles approach scaffolding concepts one upon one along with code snippets and building a project. 
+I tried to build one and came up with [[Prompty|Prompty]], an extension that would help me to quickly see definitions and prompt the underlying large language model to perform a task with selected task. I learned a lot while building it, felt it it to be so easy & cool and will try my best to teach what i have learnt. My way of teaching would be first principles approach scaffolding concepts one upon one along with code snippets and building a project. 
 
 **Note**: The tech stack I use in this article is Vite+React+Typescript. A basic understanding of HTML, CSS and Javascript is enough for you to follow along this article.
 ## Core concepts
