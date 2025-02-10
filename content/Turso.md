@@ -1,4 +1,3 @@
-
 # Project brainstorming
 Let's brainstorm project idea, here is my initial project thoughts -
 
@@ -26,7 +25,7 @@ Now, that the user has selected the specific concept questions. An AI agent will
 layout the below plan =
 
 
-## **1️⃣ How Does an LLM Generate Text?**  
+## **How Does an LLM Generate Text?**  
 **Goal:** Illustrate how an LLM processes input tokens and generates coherent text using probabilities.
 
 ### **Scene 1: Introduction to LLMs**  
